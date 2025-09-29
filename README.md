@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohanbodhe" alt="rohanbodhe" /></a> </p>
 
-- 🔭 I’m currently working on **Regression Project**
+- 🔭 I’m currently working on **Java Developement**
 
-- 🌱 I’m currently learning **Machine Learning , Statistics**
+- 🌱 I’m currently learning **Java , Machine Learning , Statistics**
 
 - 🤝 I’m looking for help with **guidance in data career , Machine Learning and Agentic Ai**
 
